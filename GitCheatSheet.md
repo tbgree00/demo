@@ -29,9 +29,18 @@ Clone the account locally (using SSH in this example)
 
 Add the folder into you text editor or somehow edit your files
 
-Make a file
+Edit README.md
+
+Save your changes in the editor
 
 Add all files to the git index
+
 ```git add .```
 
-After savi
+Commit your changes
+
+```git commit -m "Comment goes here"```
+
+Push your changes to the online repo
+
+```git push```
